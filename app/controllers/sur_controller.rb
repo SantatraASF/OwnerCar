@@ -1,0 +1,2 @@
+class SurController < ApplicationController
+end
